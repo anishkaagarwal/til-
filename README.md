@@ -31,9 +31,13 @@ This creates `rag/2026-11-24-hybrid-search-beats-pure-vector-search-on-short-que
 
 ## Daily log
 <!-- daily:start -->
+- [2026-11-26](daily/2026-11-26.md)
 - [2026-11-24](daily/2026-11-24.md)
 <!-- daily:end -->
 
 ## Notes
 <!-- notes:start -->
+- 2026-11-26 - [Running crewAI and pipecat tests on Windows: two traps](python/2026-11-26-running-crewai-and-pipecat-tests-on-windows-two-traps.md) - `python`
+- 2026-11-26 - [Word timestamps for HTTP TTS: speech marks plus a cumulative offset](voice-ai/2026-11-26-word-timestamps-for-http-tts-speech-marks-plus-a-cumulative-offset.md) - `voice-ai`
+- 2026-11-26 - [Nested try/finally so restore runs even if cleanup raises](python/2026-11-26-nested-try-finally-so-restore-runs-even-if-cleanup-raises.md) - `python`
 <!-- notes:end -->
