@@ -31,6 +31,7 @@ This creates `rag/2026-11-24-hybrid-search-beats-pure-vector-search-on-short-que
 
 ## Daily log
 <!-- daily:start -->
+- [2026-11-28](daily/2026-11-28.md)
 - [2026-11-27](daily/2026-11-27.md)
 - [2026-11-26](daily/2026-11-26.md)
 - [2026-11-24](daily/2026-11-24.md)
@@ -38,6 +39,7 @@ This creates `rag/2026-11-24-hybrid-search-beats-pure-vector-search-on-short-que
 
 ## Notes
 <!-- notes:start -->
+- 2026-11-28 - [Force-completing TTS context: keep LLM text, not SSML markup](voice-ai/2026-11-28-force-completing-tts-context-keep-llm-text-not-ssml-markup.md) - `voice-ai`
 - 2026-11-27 - [Idempotent async cleanup: close the client after tool cleanups](python/2026-11-27-idempotent-async-cleanup-close-the-client-after-tool-cleanups.md) - `python`
 - 2026-11-26 - [Running crewAI and pipecat tests on Windows: two traps](python/2026-11-26-running-crewai-and-pipecat-tests-on-windows-two-traps.md) - `python`
 - 2026-11-26 - [Word timestamps for HTTP TTS: speech marks plus a cumulative offset](voice-ai/2026-11-26-word-timestamps-for-http-tts-speech-marks-plus-a-cumulative-offset.md) - `voice-ai`
